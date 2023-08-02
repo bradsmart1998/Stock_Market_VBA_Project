@@ -10,7 +10,7 @@ For this project, I have a spreadsheet of stock market data for containing infor
 
 ## 2018 Results
 
-![image](https://github.com/bradsmart1998/Stock_Market_VBA_Project/assets/114998403/c5e4f105-2023-4eff-bdc2-5fe2c25821f4)
+<img width="497" alt="2018 Screen Shot" src="https://github.com/bradsmart1998/Stock_Market_VBA_Project/assets/114998403/d355301a-a021-477c-a4d3-36c3fafa54d0">
 
 ## 2019 Results
 
